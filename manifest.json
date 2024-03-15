@@ -1,0 +1,21 @@
+{
+    "manifest_version": 3,
+    "name": "Suppression du consentement",
+    "version": "1.0",
+    "description": "Extension permettant de supprimer des cookies et valeur de local storage spécifiques aux CMP.",
+    "permissions": ["cookies", "tabs", "activeTab", "storage","scripting"],
+    "host_permissions": [
+        "<all_urls>"
+      ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    }
+  }
+  

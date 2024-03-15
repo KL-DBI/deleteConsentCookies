@@ -1,0 +1,8 @@
+didomi_token
+euconsent-v2
+CookieConsent
+OptanonConsent
+cookies-manager
+TCID
+TC_PRIVACY
+ppms_privacy
