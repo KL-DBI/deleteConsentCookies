@@ -6,3 +6,10 @@ cookies-manager
 TCID
 TC_PRIVACY
 ppms_privacy
+_iub_cs
+axeptio
+cookieyes
+cookiesplus
+consent-policy
+CookieScriptConsent
+moove_gdpr_popup
